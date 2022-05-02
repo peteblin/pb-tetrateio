@@ -1,0 +1,29 @@
+id: istio_0to60
+title: Istio 0 to 60
+
+include_folders:
+  - images
+
+content:
+  - cover.md
+  - 0_agenda.md
+
+  - lab_1_environment.md
+
+  - 1_introduction.md
+  - lab_2_install_istio.md
+
+  - 2_istio_architecture.md
+  - lab_3_the_app.md
+
+  - 3_ingress.md
+  - lab_4_ingress.md
+
+  - 4_observability.md
+  - lab_5_observability.md
+
+  - 5_security.md
+  - lab_6_security.md
+
+  - 6_traffic_management.md
+  - lab_7_traffic_shifting.md
